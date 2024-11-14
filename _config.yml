@@ -1,13 +1,16 @@
 title: Dianne Johnson
 logo: /assets/img/photo-14.jpg
-logo: /assets/img/photo-14.jpg
-#logo: /assets/img/headshot_circle.png
+
+
+
 description:  Check out my projects below! 
+
+social:
 linkedin: https://www.linkedin.com/in/diannejohnsondataanalyst/
 email: "DianneJohnson.DataAnalyst@gmail.com"
-github_link: false
-#show_downloads: false
+
+show_downloads: false
 theme: jekyll-theme-minimal
-social-network-links:
-  email: "DianneJohnson.DataAnalyst@gmail.com"
-  linkedin: "https://www.linkedin.com/in/diannejohnsondataanalyst/"
+#social-network-links:
+#  email: "DianneJohnson.DataAnalyst@gmail.com"
+#  linkedin: "https://www.linkedin.com/in/diannejohnsondataanalyst/"
