@@ -1,5 +1,7 @@
 # Data Analyst
 
+![Headshot](/assets/photo-14.jpg/)
+
 ### Education
 BBA
 
