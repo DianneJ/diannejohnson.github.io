@@ -5,12 +5,9 @@ logo: /assets/img/photo-14.jpg
 
 description:  Check out my projects below! 
 
-social:
-linkedin: https://www.linkedin.com/in/diannejohnsondataanalyst/
-email: "DianneJohnson.DataAnalyst@gmail.com"
-
 show_downloads: false
 theme: jekyll-theme-minimal
+
 #social-network-links:
 #  email: "DianneJohnson.DataAnalyst@gmail.com"
 #  linkedin: "https://www.linkedin.com/in/diannejohnsondataanalyst/"
