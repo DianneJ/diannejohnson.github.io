@@ -1,7 +1,10 @@
 title: Dianne Johnson
 logo: /assets/img/photo-14.jpg
 #logo: /assets/img/headshot_circle.png
-#description:  This is my Portfolio
+description:  Contact Me
+LinkedIn: "https://www.linkedin.com/in/diannejohnsondataanalyst/"
+Email: "mailto:diannejohnson.dataanalyst@gmail.com"
+
 github_link: false
 #show_downloads: false
 theme: jekyll-theme-minimal
