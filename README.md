@@ -9,9 +9,6 @@ Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experience
 - Story Telling, Exploratory Data Analysis, Data Modeling, Data Auditing
 - Dashboards, Presentations, Visualizations, AdHoc Reporting
  
-<!-- ## Work Experience -->
-<!-- - Digital Insights Analyst, Allen Media Group, 01-2022 - 05-2024  -->
- 
 ## Certifications & Education
 - PL-300 Microsoft Power BI Data Analyst Associate,  In Progress
 - AI-900 Microsoft Azure Fundamentals of AI, 09-2024
