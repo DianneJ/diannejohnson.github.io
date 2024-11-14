@@ -27,6 +27,7 @@ Digital Insights Analyst
 - **Project 2**: [Project Title](link to project)
   - Description: (Brief description)
 
-## Contact
+## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/diannejohnsondataanalyst/)
-- [Email](DianneJohnson.DataAnalyst@gmail.com)
+- [Email](mailto:diannejohnson.dataanalyst@gmail.com)
+
