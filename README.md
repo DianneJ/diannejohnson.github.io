@@ -19,10 +19,10 @@ Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experience
 ## Projects
 
 -  [A Tableau Story with World Bank Data](https://public.tableau.com/views/ATableauStorywithWorldBankData/BestCountrytoStartaBusiness?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-  - This Tableau report uses World Bank data to rank countries by business-friendliness, focusing on factors like ease of starting a business, regulatory environment, and economic conditions to help identify ideal countries for business startups
+   - This Tableau report uses World Bank data to rank countries by business-friendliness, focusing on factors like ease of starting a business, regulatory environment, and economic conditions to help identify ideal countries for business startups
     
 -  [Regional Sales Across the Product Hierarchy](https://public.tableau.com/views/RegionalSalesAcrossTheProductHierarchy_16310530580340/RegonalSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-  - This interactive Tableau dashboard visualizes sales by region and product category, allowing users to filter by location and category to analyze trends, compare performance, and gain actionable insights.
+   - This interactive Tableau dashboard visualizes sales by region and product category, allowing users to filter by location and category to analyze trends, compare performance, and gain actionable insights.
     
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/diannejohnsondataanalyst/)
