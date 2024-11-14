@@ -8,17 +8,16 @@ Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experience
 - Digital performance tracking, user behavior, content analysis, competitive analysis
 - Story Telling, Exploratory Data Analysis, Data Modeling, Data Auditing
 - Dashboards, Presentations, Visualizations, AdHoc Reporting
-
+<!--
 ## Work Experience
 - Digital Insights Analyst, Allen Media Group, 01-2022 - 05-2024
+ -->
  
-## Certifications
+## Certifications & Education
 - PL-300 Microsoft Power BI Data Analyst Associate,  In Progress
 - AI-900 Microsoft Azure Fundamentals of AI, 09-2024
 - PCEP-30-02 Certified Entry-Level Python Programmer, 07-2024
 - Tableau Data Analytics Certificate, Emory University Continuing Education, 08-2021
-
-## Education
 - BBA, Computer Information Systems,  Georgia State University
 
 ## Projects
