@@ -17,7 +17,7 @@ Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experience
 - BBA, Computer Information Systems,  Georgia State University
 
 ## Projects
-- **Project 1**: [Meaningless Test Project]("https://github.com/diannejohnson.github.io/assets/img/TEST_PROJECT.PDF")
+- **Project 1**: [Meaningless Test Project]("https://github.com/diannejohnson.github.io/assets/img/TEST_PROJECT.PDF")    
   - Description: Waste of Time Project 
 - **Project 2**: [Project Title](link to project)
   - Description: (Brief description)
@@ -25,4 +25,5 @@ Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experience
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/diannejohnsondataanalyst/)
 - [Email](mailto:diannejohnson.dataanalyst@gmail.com)
+[TEST PROJECT.pdf](https://github.com/user-attachments/files/17754182/TEST.PROJECT.pdf)
 
