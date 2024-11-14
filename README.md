@@ -10,13 +10,13 @@ Digital Insights Analyst
 - project 3!
  
 ### Certifications
-- PL-300 Microsoft Power BI Data Analyst Associate,  In Progress!
-- AI-900 Microsoft Azure Fundamentals of AI, 09-2024!
-- PCEP-30-02 Certified Entry-Level Python Programmer | 07-2024!
-- Tableau Data Analytics Certificate | Emory University Continuing Education | 08-2021!
+- PL-300 Microsoft Power BI Data Analyst Associate,  In Progress
+- AI-900 Microsoft Azure Fundamentals of AI, 09-2024
+- PCEP-30-02 Certified Entry-Level Python Programmer, 07-2024
+- Tableau Data Analytics Certificate, Emory University Continuing Education, 08-2021
 
 ### Education
-- BBA, COMPUTER INFORMATION SYSTEMS | Georgia State University!
+- BBA, Computer Information Systems,  Georgia State University
 
 ### Projects
 - thing 1!
