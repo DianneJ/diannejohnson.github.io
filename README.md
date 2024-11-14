@@ -1,16 +1,16 @@
 # Data Analyst | Digital Insights Analyst
 
 ## About Me
-Digital Insights Analyst / Data Analyst experienced in analyzing user behavior on websites and streaming apps, I specialize in deriving insights critical for strategic decision-making. My role is pivotal in comprehending audience engagement, enhancing digital experiences, and amplifying marketing effectiveness. With a penchant for performing exploratory data analytics, I unearth valuable insights hidden within datasets. Leveraging technical proficiency, I devise innovative solutions to complex business challenges. Collaborating directly with stakeholders, I craft tailored strategies to meet their distinct business objectives.
+Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experienced in analyzing user behavior on websites and streaming apps. In my recent role at Allen Media, I focused on uncovering viewer trends, engagement patterns, and actionable insights by analyzing streaming data, website traffic, and content performance. I specialize in deriving insights critical for strategic decision-making, helping to enhance digital experiences and amplify marketing effectiveness. With a knack for exploratory data analysis, I’m dedicated to discovering valuable insights within datasets and crafting innovative solutions to complex business challenges. By collaborating closely with stakeholders, I ensure that tailored strategies align with their distinct business objectives.
 
 ## Skills
-- SQL, Python, Power BI, etc.
+- SQL, Looker, LookMl, Google Analytics (UA & GA4), Tableau, Python, Azure AI, ChatGPT, Microsoft Office, Google Sheets, Segment, Comscore, Quantcast, Nielsen (NPower), Parse.ly, DotStudio Pro, 
+- Digital performance tracking, user behavior, content analysis, competitive analysis
+- Story Telling, Exploratory Data Analysis, Data Modeling, Data Auditing
+- Dashboards, Presentations, Visualizations, AdHoc Reporting
 
 ## Work Experience
-Digital Insights Analyst
-- project 1!
-- project 2!
-- project 3!
+- Digital Insights Analyst, Allen Media Group, 01-2022 - 05-2024
  
 ## Certifications
 - PL-300 Microsoft Power BI Data Analyst Associate,  In Progress
@@ -31,7 +31,3 @@ Digital Insights Analyst
 - [LinkedIn](https://www.linkedin.com/in/diannejohnsondataanalyst/)
 - [Email](mailto:diannejohnson.dataanalyst@gmail.com)
 
-# Line 1
-## Line 2
-### Line 3
-#### Line 4
