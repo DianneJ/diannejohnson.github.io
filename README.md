@@ -8,10 +8,10 @@ Digital Insights Analyst
 - project 1!
 - project 2!
 - project 3!
-- 
+ 
 ### Certifications
-- PL-300 Microsoft Power BI Data Analyst Associate | In Progress!
-- AI-900 Microsoft Azure Fundamentals of AI | 09-2024!
+- PL-300 Microsoft Power BI Data Analyst Associate,  In Progress!
+- AI-900 Microsoft Azure Fundamentals of AI, 09-2024!
 - PCEP-30-02 Certified Entry-Level Python Programmer | 07-2024!
 - Tableau Data Analytics Certificate | Emory University Continuing Education | 08-2021!
 
