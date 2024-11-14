@@ -1,7 +1,7 @@
 title: Dianne Johnson
 logo: /assets/img/photo-14.jpg
 #logo: /assets/img/headshot_circle.png
-description:  This is my Portfolio
+#description:  This is my Portfolio
 github_link: false
-show_downloads: false
+#show_downloads: false
 theme: jekyll-theme-minimal
