@@ -17,8 +17,8 @@ Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experience
 - BBA, Computer Information Systems,  Georgia State University
 
 ## Projects
-- **Project 1**: [Project Title](link to project)
-  - Description: (Brief description)
+- **Project 1**: [Meaningless Test Project](TEST PROJECT.PDF)
+  - Description: Waste of Time Project 
 - **Project 2**: [Project Title](link to project)
   - Description: (Brief description)
 
