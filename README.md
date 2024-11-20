@@ -1,6 +1,6 @@
 # Data Analyst 
-# Digital Insights Analyst  
-# Business Intelligence Analyst
+## Digital Insights Analyst  
+## Business Intelligence Analyst
 
 ## About Me
 Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experienced in analyzing user behavior on websites and streaming apps. In my recent role at Allen Media, I focused on uncovering viewer trends, engagement patterns, and actionable insights by analyzing streaming data, website traffic, and content performance. I specialize in deriving insights critical for strategic decision-making, helping to enhance digital experiences and amplify marketing effectiveness. With a knack for exploratory data analysis, I’m dedicated to discovering valuable insights within datasets and crafting innovative solutions to complex business challenges. By collaborating closely with stakeholders, I ensure that tailored strategies align with their distinct business objectives.
