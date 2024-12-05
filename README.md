@@ -27,6 +27,9 @@ Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experience
     
 -  [Regional Sales Across the Product Hierarchy](https://public.tableau.com/views/RegionalSalesAcrossTheProductHierarchy_16310530580340/RegonalSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
    - This interactive Tableau dashboard visualizes sales by region and product category, allowing users to filter by location and category to analyze trends, compare performance, and gain actionable insights.
+
+-  [Simple Dashboard using Google Sheets](https://docs.google.com/spreadsheets/d/1orkrgIfT34Ma-shNEmxp3umP8dYySpOB-_wnfCG2M0c/edit?gid=801087715#gid=801087715)
+   - Interactive Dashboard for FLW Online Sales for FY2020.  
     
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/diannejohnsondataanalyst/)
