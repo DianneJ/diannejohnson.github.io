@@ -29,7 +29,7 @@ Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experience
    - This interactive Tableau dashboard visualizes sales by region and product category, allowing users to filter by location and category to analyze trends, compare performance, and gain actionable insights.
 
 -  [Simple Dashboard using Google Sheets](https://docs.google.com/spreadsheets/d/1orkrgIfT34Ma-shNEmxp3umP8dYySpOB-_wnfCG2M0c/edit?usp=sharing)
-   - Interactive Dashboard for FLW Online Sales for FY2020.  
+   - Interactive Dashboard for FLW Online Sales for FY2020..  
     
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/diannejohnsondataanalyst/)
