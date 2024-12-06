@@ -29,11 +29,8 @@ Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experience
    - This interactive Tableau dashboard visualizes sales by region and product category, allowing users to filter by location and category to analyze trends, compare performance, and gain actionable insights.
 
 -  [Simple Dashboard using Google Sheets](https://docs.google.com/spreadsheets/d/1orkrgIfT34Ma-shNEmxp3umP8dYySpOB-_wnfCG2M0c/edit?usp=sharing)
-   - Interactive Dashboard for FLW Online Sales for FY2020. This Dashboard, developed in Google Sheets, explores "Flower" sales for FY 2020.  
-   - This Dashboard features
-   - 1. Sliders for filtering results by Month, Customer Type, Order Type, Category and State.
-     2. Score cards for a snapshot view of Total Sales, # of Transactions processed and Quantity Sold
-     3. Barchart (Monthly Sales, Line Chart (Daily Sales), Map and Table (Sales by location), Donut Charts (Sales by Segment), Tables - Sales by Product and Sales by Customer
+   - Interactive Dashboard for FLW Online Sales for FY2020. This Dashboard, developed in Google Sheets, explores "Flower" sales for FY 2020.  This Dashboard includes Sliders for interactively filtering results by Month, Customer Type, Order Type, Category and State.
+    
     
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/diannejohnsondataanalyst/)
