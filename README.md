@@ -11,7 +11,7 @@ Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experience
 - Dashboards, Presentations, Visualizations, AdHoc Reporting
  
 ## Certifications & Education
-- PL-300 Microsoft Power BI Data Analyst Associate,  In Progress
+- PL-300 Microsoft Power BI Data Analyst Associate,  Expected 04-2025
 - AI-900 Microsoft Azure Fundamentals of AI, 09-2024
 - PCEP-30-02 Certified Entry-Level Python Programmer, 07-2024
 - Tableau Data Analytics Certificate, Emory University Continuing Education, 08-2021
