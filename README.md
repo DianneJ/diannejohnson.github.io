@@ -19,7 +19,7 @@ Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experience
 
 ## Projects
 
--  [theGrio Monthly Performance Update](https://github.com/DianneJ/diannejohnson.github.io/blob/main/assets/img/TheGrio.com%20Monthly%20Update%20-%20MARCH%202024.pdf)
+-  [theGrio Monthly Performance Update]( https://github.com/DianneJ/diannejohnson.github.io/blob/main/assets/img/TheGrio.com%20Monthly%20Update%20-%20MARCH%202024.pdf)
    - The March 2024 monthly update for TheGrio.com highlights increases in unique visitors, pageviews, and active users, showcasing growth in organic traffic and engagement metrics, alongside the impact of top-performing articles. 
 
 -  [A Tableau Story with World Bank Data](https://public.tableau.com/views/ATableauStorywithWorldBankData/BestCountrytoStartaBusiness?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
