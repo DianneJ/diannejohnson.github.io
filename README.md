@@ -63,7 +63,7 @@ Today, I continue expanding my expertise in business intelligence, workforce ana
 
 - [HR Analytics Dashboard (Power BI)](https://github.com/DianneJ/HR-Analytics-Dashboard)
    - Developed an interactive Power BI dashboard to analyze employee attrition, workforce demographics, salary distribution, and department performance. Leveraged Power Query and DAX to create KPIs and identify workforce retention trends.
-   - 
+     
 -  [theGrio Monthly Performance Update]( https://github.com/DianneJ/diannejohnson.github.io/blob/main/assets/img/TheGrio.com%20Monthly%20Update%20-%20MARCH%202024.pdf)
    - The March 2024 monthly update for TheGrio.com highlights increases in unique visitors, pageviews, and active users, showcasing growth in organic traffic and engagement metrics, alongside the impact of top-performing articles. 
 
