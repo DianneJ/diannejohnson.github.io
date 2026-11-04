@@ -53,7 +53,7 @@ Today, I continue expanding my expertise in business intelligence, workforce ana
 - Business Presentations
  
 ### Certifications & Education
-- PL-300 Microsoft Power BI Data Analyst Associate,  Expected 2026
+- PL-300 Microsoft Power BI Data Analyst Associate, In-Progress
 - AI-900 Microsoft Azure Fundamentals of AI, 09-2024
 - PCEP-30-02 Certified Entry-Level Python Programmer, 07-2024
 - Tableau Data Analytics Certificate, Emory University Continuing Education, 08-2021
