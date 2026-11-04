@@ -1,17 +1,59 @@
-# Data Analyst 
-## Digital Insights Analyst  
+# Data Analyst | Digital Insights Analyst  
 
 ## About Me
-Hi, I’m Dianne Johnson, a Digital Insights Analyst and Data Analyst experienced in analyzing user behavior on websites and streaming apps. In my recent role at Allen Media, I focused on uncovering viewer trends, engagement patterns, and actionable insights by analyzing streaming data, website traffic, and content performance. I specialize in deriving insights critical for strategic decision-making, helping to enhance digital experiences and amplify marketing effectiveness. With a knack for exploratory data analysis, I’m dedicated to discovering valuable insights within datasets and crafting innovative solutions to complex business challenges. By collaborating closely with stakeholders, I ensure that tailored strategies align with their distinct business objectives.
+I am a data analyst with experience supporting digital media, business operations, and process improvement initiatives. Throughout my career, I have worked with reporting, data validation, analytics, and workflow optimization to help stakeholders make informed business decisions.
+
+At Allen Media Group, I analyzed audience engagement and content performance using Google Analytics, Looker Studio, and LookML. I supported reporting for both website and streaming platforms, helping translate audience and performance data into actionable business insights. My experience also includes exposure to syndicated research and audience measurement tools such as Nielsen.
+
+In addition to media analytics, my background includes operational reporting, data reconciliation, process improvement, and automation. I have developed dashboards, streamlined workflows, and supported data-driven decision-making using Power BI, Excel, Power Query, SQL, and Microsoft Power Platform technologies.
+
+Today, I continue expanding my expertise in business intelligence, workforce analytics, automation, and data storytelling through hands-on projects and ongoing professional development, including preparation for the Microsoft PL-300 Data Analyst certification.
+
+**Core Skills:** Power BI, SQL, Excel, Power Query, Tableau, Looker Studio, LookML, Google Analytics, Nielsen, Power Automate, Microsoft Copilot, Dashboard Development, Data Validation, Reporting & Analytics.
 
 ## Skills
-- SQL, PowerBI, Microsoft Excel, Looker, LookMl, Google Analytics (UA & GA4), Tableau, Python, Azure AI, ChatGPT, Microsoft Office, Google Sheets, Segment, Comscore, Quantcast, Nielsen (NPower), Parse.ly, DotStudio Pro 
-- Digital performance tracking, user behavior, content analysis, competitive analysis
-- Story Telling, Exploratory Data Analysis, Data Modeling, Data Auditing
-- Dashboards, Presentations, Visualizations, AdHoc Reporting
+### Analytics & Reporting
+- Power BI
+- SQL
+- Excel
+- Power Query
+- Tableau
+- Looker Studio
+- LookML
+  
+### Digital Analytics
+- Google Analytics (UA & GA4)
+- Nielsen
+- Comscore
+- Quantcast
+- Parse.ly
+- Segment
+- DotStudio Pro
+  
+### Data & Business Analysis
+- Data Validation
+- Data Auditing
+- Exploratory Data Analysis
+- Data Modeling
+- Competitive Analysis
+- Content Performance Analysis
+- User Behavior Analysis
+  
+### Automation & AI
+- Power Automate
+- Microsoft Copilot
+- ChatGPT
+- Azure AI
+  
+### Communication
+- Dashboard Development
+- Data Visualization
+- Ad Hoc Reporting
+- Data Storytelling
+- Business Presentations
  
-## Certifications & Education
-- PL-300 Microsoft Power BI Data Analyst Associate,  Expected 11-2026
+### Certifications & Education
+- PL-300 Microsoft Power BI Data Analyst Associate,  Expected 2026
 - AI-900 Microsoft Azure Fundamentals of AI, 09-2024
 - PCEP-30-02 Certified Entry-Level Python Programmer, 07-2024
 - Tableau Data Analytics Certificate, Emory University Continuing Education, 08-2021
