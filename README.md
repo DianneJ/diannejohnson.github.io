@@ -1,4 +1,4 @@
-# Data Analyst | Digital Insights Analyst  
+# Data Analyst | Digital Analytics 
 
 ## About Me
 I am a data analyst with experience supporting digital media, business operations, and process improvement initiatives. Throughout my career, I have worked with reporting, data validation, analytics, and workflow optimization to help stakeholders make informed business decisions.
@@ -60,6 +60,9 @@ Today, I continue expanding my expertise in business intelligence, workforce ana
 - Bachelor of Business Administration, Computer Information Systems,  Georgia State University
 
 ## Projects
+
+- HR Analytics Dashboard (Power BI)
+   - Developed an interactive workforce analytics dashboard in Power BI to analyze employee attrition, workforce demographics, salary distribution, department performance, and employee satisfaction. Leveraged Power Query for data transformation and DAX measures to calculate key workforce KPIs, enabling users to identify retention risks and workforce trends through interactive visualizations and filtering.
 
 -  [theGrio Monthly Performance Update]( https://github.com/DianneJ/diannejohnson.github.io/blob/main/assets/img/TheGrio.com%20Monthly%20Update%20-%20MARCH%202024.pdf)
    - The March 2024 monthly update for TheGrio.com highlights increases in unique visitors, pageviews, and active users, showcasing growth in organic traffic and engagement metrics, alongside the impact of top-performing articles. 
